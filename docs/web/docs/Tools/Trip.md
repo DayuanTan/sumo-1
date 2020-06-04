@@ -180,6 +180,14 @@ Alternatively, after *randomTrips.py* has finished, the created `<vType>`-elemen
 can be edited to specify additional parameters. The downside of manual
 editing is that it must be repeated when running *randomTrips.py* again.
 
+### Building a randomTrips scenario with different vehicle types
+
+xxxx
+
+xxxx
+
+
+
 ## Generating different modes of traffic
 
 - Using the option **--pedestrians** will generated pedestrians instead of vehicles.
